@@ -221,6 +221,11 @@ p {
   padding: 60px 0 58px 0;
   width: 100%;
   height: 380px; }
+@media screen and (max-width: 991px) {
+  .description__video {
+    padding: 0 0 58px 0;
+  }
+}
 
 /* Author-info */
 .author-info {
