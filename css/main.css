@@ -331,5 +331,5 @@ p {
         font-size: 12px; } }
 
 .form-group {
-  margin: 0;
+  margin: 0 0 5px 0;
 }
