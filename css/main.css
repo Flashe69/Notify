@@ -329,3 +329,7 @@ p {
       .footer__list a {
         padding-left: 10px;
         font-size: 12px; } }
+
+.form-group {
+  margin: 0;
+}
